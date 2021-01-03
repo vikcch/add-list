@@ -1,7 +1,10 @@
 .DS_Store
 node_modules
 /dist
-
+TODO
+NOTES.md
+_sketch
+.VSCodeCounter
 
 # local env files
 .env.local
