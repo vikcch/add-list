@@ -1,24 +1,7 @@
-# addlist
+# Add List
 
-## Project setup
-```
-npm install
-```
+A web app which adds for you.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+See it on action: [Add List](https://vikcch.github.io/add-list/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Option to import and export to/from a json file.
