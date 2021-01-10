@@ -11,5 +11,6 @@ module.exports = {
             extensions: ['.js', '.vue', '.json']
         }
     },
-    productionSourceMap: false
+    productionSourceMap: false,
+    publicPath: "/add-list/"
 }
